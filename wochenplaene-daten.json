@@ -33,21 +33,24 @@
        "art": "Klasse 4",
        "niveau": "★",
        "text": "Zahlen vergleichen und runden: S.4, #3,4,5 \nschriftliche Addition: S.6, #11, 12, 15 \nschriftliche Subtraktion: S.8, #22,23,26",
-       "material": "Matherad 4"
+       "material": "Matherad 4",
+       "anhaenge": []
       },
       {
        "id": "is7t0nm",
        "art": "Klasse 5",
        "niveau": "★★",
        "text": "Zahlen vergleichen und runden: S.4-5, #3, 4, 8 \nschriftliche Addition: S.8, #20, 22 \nschriftliche Subtraktion: S.32-33, #32,35 \nschriftliche Multiplikation: S.12-23, #42,46 \nschriftliche Division: S. 15, #53",
-       "material": "Matherad 5"
+       "material": "Matherad 5",
+       "anhaenge": []
       },
       {
        "id": "s9jz1eb",
        "art": "Klasse 6",
        "niveau": "★★★",
        "text": "Zahlen runden: S.5, #9 \nAddition und Subtraktion: S.6-7, #12,15 \nMultiplikation und Division: S.9, #20,21,22 \nRechengesetze: S.10, #25,24",
-       "material": "Matherad 6"
+       "material": "Matherad 6",
+       "anhaenge": []
       }
      ]
     },
@@ -61,7 +64,14 @@
        "art": "Pflicht",
        "niveau": "",
        "text": "täglich 5-10 Minuten Einmaleins-Training.",
-       "material": "1•1 Übungsblatt"
+       "material": "1•1 Übungsblatt",
+       "anhaenge": [
+        {
+         "art": "link",
+         "titel": "1•1-Übungsblatt",
+         "url": "https://https://taskcards.s3.hidrive.strato.com/attachments/6fffd8c6-9502-4a5f-8571-bb13d4a6468c?response-content-disposition=filename%3D1%252A1-reihen.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AHS49RUS6XLXF0S0CNIF%2F20260806%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260806T134151Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=aacc10c0b9f2a0cf403fd9cdff9c591f392037abfc3209b4342f8876655616ac"
+        }
+       ]
       }
      ]
     },
@@ -75,7 +85,8 @@
        "art": "Wahl",
        "niveau": "",
        "text": "Denkaufgabe der Woche: Wie oft schlägt dein Herz in einem Jahr?",
-       "material": ""
+       "material": "",
+       "anhaenge": []
       }
      ]
     }
