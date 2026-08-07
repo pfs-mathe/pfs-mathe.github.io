@@ -1,0 +1,85 @@
+{
+ "schule": "Paula-Fürst-Schule",
+ "klassen": [
+  {
+   "id": "jjp1ze9",
+   "name": "Tigerhaie"
+  },
+  {
+   "id": "jlagu05",
+   "name": "Erdmännchen"
+  }
+ ],
+ "wochen": [
+  {
+   "id": "rz1s2g5",
+   "titel": "1. Woche",
+   "von": "",
+   "bis": "",
+   "fuer": [
+    "jjp1ze9",
+    "jlagu05"
+   ],
+   "thema": "Wiederholungen - Was war noch mal? Was kann ich noch?",
+   "hinweis": "4. Klasse: Abgabe am Freitag.\nAchtet darauf, dass oben Name, Datum und Thema steht. \nZu den Aufgaben: Buch, Seite, Nr. \nNimm dir Zeit, es ordentlich zu machen!",
+   "bloecke": [
+    {
+     "id": "v0bsb3z",
+     "name": "Pflichtaufgaben",
+     "farbe": "#1f4e9c",
+     "aufgaben": [
+      {
+       "id": "krozsl4",
+       "art": "Klasse 4",
+       "niveau": "★",
+       "text": "Zahlen vergleichen und runden: S.4, #3,4,5\nschriftliche Addition: S.6, #11, 12, 15\nschriftliche Subtraktion: S.8, #22,23,26",
+       "material": "Matherad 4"
+      },
+      {
+       "id": "h5hyurt",
+       "art": "Klasse 5",
+       "niveau": "★★",
+       "text": "Zahlen vergleichen und runden: S.4-5, #3, 4, 8\nschriftliche Addition: S.8, #20, 22\nschriftliche Subtraktion: S.32-33, #32,35\nschriftliche Multiplikation: S.12-23, #42,46\nschriftliche Division: S. 15, #53",
+       "material": "Matherad 5"
+      },
+      {
+       "id": "dyyfqtl",
+       "art": "Klasse 6",
+       "niveau": "★★★",
+       "text": "Zahlen runden: S.5, #9\nAddition und Subtraktion: S.6-7, #12,15\nMultiplikation und Division: S.9, #20,21,22\nRechengesetze: S.10, #25,24",
+       "material": "Buch S. 88"
+      }
+     ]
+    },
+    {
+     "id": "3lmy83w",
+     "name": "Üben & Trainieren",
+     "farbe": "#0f8a55",
+     "aufgaben": [
+      {
+       "id": "4zpig03",
+       "art": "Pflicht",
+       "niveau": "",
+       "text": "Kopfrechnen: täglich 5-10 Minuten Einmaleins-Training.",
+       "material": "1•1 Übungsblatt"
+      }
+     ]
+    },
+    {
+     "id": "8ji0mo0",
+     "name": "Wahl- & Knobelaufgaben",
+     "farbe": "#b8791a",
+     "aufgaben": [
+      {
+       "id": "gny86ir",
+       "art": "Wahl",
+       "niveau": "★★★",
+       "text": "Denkaufgabe der Woche:\nWie oft schlägt dein Herz in einem Jahr?",
+       "material": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
