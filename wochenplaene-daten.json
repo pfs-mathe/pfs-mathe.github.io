@@ -12,6 +12,38 @@
  ],
  "wochen": [
   {
+   "id": "2okctls",
+   "titel": "2. Woche",
+   "von": "",
+   "bis": "",
+   "fuer": [
+    "tinnmwx",
+    "v6ca4kh"
+   ],
+   "thema": "",
+   "hinweis": "Der nächste Wochenplan wird am Sonntag veröffentlicht!",
+   "bloecke": [
+    {
+     "id": "3rvfaxx",
+     "name": "Pflichtaufgaben",
+     "farbe": "#1f4e9c",
+     "aufgaben": []
+    },
+    {
+     "id": "92c9fop",
+     "name": "Üben & Trainieren",
+     "farbe": "#0f8a55",
+     "aufgaben": []
+    },
+    {
+     "id": "61bb714",
+     "name": "Wahl- & Knobelaufgaben",
+     "farbe": "#b8791a",
+     "aufgaben": []
+    }
+   ]
+  },
+  {
    "id": "wl0t0t4",
    "titel": "1. Woche",
    "von": "",
