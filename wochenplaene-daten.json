@@ -67,9 +67,9 @@
        "material": "1•1 Übungsblatt",
        "anhaenge": [
         {
-         "art": "link",
-         "titel": "1•1-Übungsblatt",
-         "url": "https://taskcards.s3.hidrive.strato.com/attachments/6fffd8c6-9502-4a5f-8571-bb13d4a6468c?response-content-disposition=filename%3D1%252A1-reihen.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AHS49RUS6XLXF0S0CNIF%2F20260806%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260806T134151Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=aacc10c0b9f2a0cf403fd9cdff9c591f392037abfc3209b4342f8876655616ac"
+         "art": "datei",
+         "titel": "1x1-reihen.pdf",
+         "url": "https://pfs-mathe.github.io/dateien/1.woche/1x1-reihen.pdf"
         }
        ]
       }
