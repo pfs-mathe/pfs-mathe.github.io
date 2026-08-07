@@ -33,24 +33,21 @@
        "art": "Klasse 4",
        "niveau": "★",
        "text": "Zahlen vergleichen und runden: S.4, #3,4,5 \nschriftliche Addition: S.6, #11, 12, 15 \nschriftliche Subtraktion: S.8, #22,23,26",
-       "material": "Matherad 4",
-       "anhaenge": []
+       "material": "Matherad 4"
       },
       {
        "id": "is7t0nm",
        "art": "Klasse 5",
        "niveau": "★★",
        "text": "Zahlen vergleichen und runden: S.4-5, #3, 4, 8 \nschriftliche Addition: S.8, #20, 22 \nschriftliche Subtraktion: S.32-33, #32,35 \nschriftliche Multiplikation: S.12-23, #42,46 \nschriftliche Division: S. 15, #53",
-       "material": "Matherad 5",
-       "anhaenge": []
+       "material": "Matherad 5"
       },
       {
        "id": "s9jz1eb",
        "art": "Klasse 6",
        "niveau": "★★★",
        "text": "Zahlen runden: S.5, #9 \nAddition und Subtraktion: S.6-7, #12,15 \nMultiplikation und Division: S.9, #20,21,22 \nRechengesetze: S.10, #25,24",
-       "material": "Matherad 6",
-       "anhaenge": []
+       "material": "Matherad 6"
       }
      ]
     },
@@ -64,14 +61,7 @@
        "art": "Pflicht",
        "niveau": "",
        "text": "täglich 5-10 Minuten Einmaleins-Training.",
-       "material": "1•1 Übungsblatt",
-       "anhaenge": [
-        {
-         "art": "datei",
-         "titel": "1x1-reihen.pdf",
-         "url": "https://pfs-mathe.github.io/dateien/1.woche/1x1-reihen.pdf"
-        }
-       ]
+       "material": "1•1 Übungsblatt"
       }
      ]
     },
@@ -85,8 +75,7 @@
        "art": "Wahl",
        "niveau": "",
        "text": "Denkaufgabe der Woche: Wie oft schlägt dein Herz in einem Jahr?",
-       "material": "",
-       "anhaenge": []
+       "material": ""
       }
      ]
     }
