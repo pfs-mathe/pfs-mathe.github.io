@@ -64,21 +64,21 @@
        "id": "m2ah2bq",
        "art": "Klasse 4",
        "niveau": "★",
-       "text": "Zahlen vergleichen und runden: S.4, #3,4,5 schriftliche Addition: S.6, #11, 12, 15 schriftliche Subtraktion: S.8, #22,23,26",
+       "text": "Zahlen vergleichen und runden: S.4, #3,4,5 \nschriftliche Addition: S.6, #11, 12, 15 \nschriftliche Subtraktion: S.8, #22,23,26",
        "material": "Matherad 4"
       },
       {
        "id": "is7t0nm",
        "art": "Klasse 5",
        "niveau": "★★",
-       "text": "Zahlen vergleichen und runden: S.4-5, #3, 4, 8 schriftliche Addition: S.8, #20, 22 schriftliche Subtraktion: S.32-33, #32,35 schriftliche Multiplikation: S.12-23, #42,46 schriftliche Division: S. 15, #53",
+       "text": "Zahlen vergleichen und runden: S.4-5, #3, 4, 8 \nschriftliche Addition: S.8, #20, 22 \nschriftliche Subtraktion: S.32-33, #32,35 \nschriftliche Multiplikation: S.12-23, #42,46 \nschriftliche Division: S. 15, #53",
        "material": "Matherad 5"
       },
       {
        "id": "s9jz1eb",
        "art": "Klasse 6",
        "niveau": "★★★",
-       "text": "Zahlen runden: S.5, #9 Addition und Subtraktion: S.6-7, #12,15 Multiplikation und Division: S.9, #20,21,22 Rechengesetze: S.10, #25,24",
+       "text": "Zahlen runden: S.5, #9 \nAddition und Subtraktion: S.6-7, #12,15 \nMultiplikation und Division: S.9, #20,21,22 \nRechengesetze: S.10, #25,24",
        "material": "Matherad 6"
       }
      ]
