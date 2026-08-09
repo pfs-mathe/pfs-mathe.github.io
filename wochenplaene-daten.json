@@ -14,8 +14,8 @@
   {
    "id": "wl0t0t4",
    "titel": "1. Woche",
-   "von": "",
-   "bis": "",
+   "von": "2026-08-24",
+   "bis": "2026-08-28",
    "fuer": [
     "tinnmwx",
     "v6ca4kh"
@@ -25,7 +25,7 @@
    "bloecke": [
     {
      "id": "7bqff84",
-     "name": "Aufgabenübersicht",
+     "name": "Pflichtaufgaben",
      "farbe": "#1f4e9c",
      "aufgaben": [
       {
