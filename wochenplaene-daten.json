@@ -12,6 +12,89 @@
  ],
  "wochen": [
   {
+   "id": "guag5o8",
+   "titel": "2. Woche",
+   "von": "",
+   "bis": "2026-09-11",
+   "fuer": [
+    "tinnmwx",
+    "v6ca4kh"
+   ],
+   "thema": "Wiederholungen - Was war noch mal? Was kann ich noch?",
+   "hinweis": "Beende deinen letzten Wochenplan!",
+   "bloecke": [
+    {
+     "id": "plrfm7i",
+     "name": "Pflichtaufgaben",
+     "farbe": "#1f4e9c",
+     "aufgaben": [
+      {
+       "id": "owbtp2g",
+       "art": "Klasse 4",
+       "niveau": "★",
+       "text": "Multiplikation: S. 10-11, #34,35,39\nDivision: S.12, #46,47,48",
+       "material": "Matherad 4",
+       "anhaenge": []
+      },
+      {
+       "id": "gnu266t",
+       "art": "Pflicht",
+       "niveau": "",
+       "text": "Abgabe am *__Freitag!__*. (Gib deinen vollständigen Mathehefter zur Korrektur ab.)",
+       "material": "",
+       "anhaenge": []
+      },
+      {
+       "id": "2agbzhu",
+       "art": "Klasse 5",
+       "niveau": "★★",
+       "text": "Große Zahlen: S. 28, #26,27\nZahlen runden: S. 29-30, Merksätze, Tipp, #28,34",
+       "material": "Matherad 5",
+       "anhaenge": []
+      },
+      {
+       "id": "l18wo6e",
+       "art": "Klasse 6",
+       "niveau": "★★★",
+       "text": "Teiler und Vielfache: S. 11, #28,29,30,31\nTeilbarkeit: S.11, #32\nPotenzen: S.12, #34",
+       "material": "Matherad 6",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "ve7nn7g",
+     "name": "Üben & Trainieren",
+     "farbe": "#0f8a55",
+     "aufgaben": [
+      {
+       "id": "5yoz7bi",
+       "art": "alle",
+       "niveau": "",
+       "text": "Übe das 1•1 und 1:1 täglich. Schreibe die Aufgaben, die du nicht sofort weißt, auf.",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "eivy5ol",
+     "name": "Wahl- & Knobelaufgaben",
+     "farbe": "#b8791a",
+     "aufgaben": [
+      {
+       "id": "ubl4mmq",
+       "art": "alle",
+       "niveau": "",
+       "text": "Wieviele Jahre hast du bereits geschlafen?",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "wl0t0t4",
    "titel": "1. Woche",
    "von": "2026-08-31",
