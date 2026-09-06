@@ -16,7 +16,10 @@
    "titel": "2. Woche",
    "von": "2026-09-07",
    "bis": "2026-09-11",
-   "fuer": [],
+   "fuer": [
+    "tinnmwx",
+    "v6ca4kh"
+   ],
    "thema": "Wiederholungen - Was war noch mal? Was kann ich noch?",
    "hinweis": "Beende deinen letzten Wochenplan!",
    "bloecke": [
@@ -75,7 +78,7 @@
        "id": "ubl4mmq",
        "art": "alle",
        "niveau": "",
-       "text": "Wieviele Jahre hast du bereits geschlafen?",
+       "text": "Wie viele Jahre hast du bereits geschlafen?",
        "material": "",
        "anhaenge": []
       }
