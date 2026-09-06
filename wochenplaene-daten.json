@@ -32,16 +32,8 @@
        "id": "owbtp2g",
        "art": "Klasse 4",
        "niveau": "★",
-       "text": "Multiplikation: S. 10-11, #34,35,39\nDivision: S.12, #46,47,48",
+       "text": "Multiplikation: S. 10-11, #34,35,39\nDivision: S.12, #46,47,48\nAbgabe am *__Freitag!__*. (Gib deinen vollständigen Mathehefter zur Korrektur ab.)",
        "material": "Matherad 4",
-       "anhaenge": []
-      },
-      {
-       "id": "gnu266t",
-       "art": "Pflicht",
-       "niveau": "",
-       "text": "Abgabe am *__Freitag!__*. (Gib deinen vollständigen Mathehefter zur Korrektur ab.)",
-       "material": "",
        "anhaenge": []
       },
       {
@@ -71,7 +63,7 @@
        "id": "5yoz7bi",
        "art": "alle",
        "niveau": "",
-       "text": "Übe das 1•1 und 1:1 täglich. Schreibe die Aufgaben, die du nicht sofort weißt, auf.",
+       "text": "Übe das 1•1 und 1:1 täglich 10 Minuten. Schreibe die Aufgaben, die du nicht sofort weißt als Mal- und Geteiltaufgaben, auf.",
        "material": "",
        "anhaenge": []
       }
