@@ -12,6 +12,81 @@
  ],
  "wochen": [
   {
+   "id": "r4vsc8n",
+   "titel": "3. Woche",
+   "von": "2026-09-14",
+   "bis": "2026-09-18",
+   "fuer": [
+    "tinnmwx",
+    "v6ca4kh"
+   ],
+   "thema": "Zahlenräume",
+   "hinweis": "",
+   "bloecke": [
+    {
+     "id": "wmpvg2i",
+     "name": "Pflichtaufgaben",
+     "farbe": "#1f4e9c",
+     "aufgaben": [
+      {
+       "id": "68nbdm6",
+       "art": "Klasse 4",
+       "niveau": "★",
+       "text": "Die Million\nZeichne die Stellenwerttafel bis eine Million (ganz oben auf den Seiten), \nS. 17-19, #4, 5, 7, S. 21, #17, 18, S.22-23, #22, 25\n",
+       "material": "Matherad 4",
+       "anhaenge": []
+      },
+      {
+       "id": "fb0cfqc",
+       "art": "Klasse 5",
+       "niveau": "★★",
+       "text": "Rechengesetze und -regeln\nS. 34-35, Merksätze, #11, S.36-37, Merksätze, #14,20\nRechnen mit großen Zahlen\nS. 39-40, #28, 29 oder 30 oder 31\nAbgabe am *__Freitag!__*. (Gib deinen vollständigen Mathehefter zur Korrektur ab.)\n",
+       "material": "Matherad 5",
+       "anhaenge": []
+      },
+      {
+       "id": "8gpszs3",
+       "art": "Klasse 6",
+       "niveau": "★★★",
+       "text": "Brüche\nS.13-14, Merksatz, #39, 43, 44, 46, *45",
+       "material": "Matherad 6",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "2qphbk8",
+     "name": "Üben & Trainieren",
+     "farbe": "#0f8a55",
+     "aufgaben": [
+      {
+       "id": "cboo2vx",
+       "art": "Pflicht",
+       "niveau": "",
+       "text": "Über die 1•1-Reihen vorwärts und rückwärts (1:1-Reihen). Lerne die Quadratzahlen (2•2, 3•3,... bis 20•20).",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "v7wgbl3",
+     "name": "Wahl- & Knobelaufgaben",
+     "farbe": "#b8791a",
+     "aufgaben": [
+      {
+       "id": "uzt6qfi",
+       "art": "Pflicht",
+       "niveau": "",
+       "text": "Wie viele Stunden verbringt ein Kind in der Grundschule (in Berlin)? Wie viele Stunden davon sind Mathestunden?",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "guag5o8",
    "titel": "2. Woche",
    "von": "2026-09-07",
