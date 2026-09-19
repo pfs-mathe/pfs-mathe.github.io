@@ -12,6 +12,81 @@
  ],
  "wochen": [
   {
+   "id": "k7yrkuc",
+   "titel": "4. Woche",
+   "von": "2026-09-21",
+   "bis": "2026-09-25",
+   "fuer": [
+    "tinnmwx",
+    "v6ca4kh"
+   ],
+   "thema": "Zahlenräume, Rechenregeln, gleichnamige Brüche addieren und subtrahieren",
+   "hinweis": "",
+   "bloecke": [
+    {
+     "id": "huskv6g",
+     "name": "Pflichtaufgaben",
+     "farbe": "#1f4e9c",
+     "aufgaben": [
+      {
+       "id": "8zf3pbg",
+       "art": "Klasse 4",
+       "niveau": "★",
+       "text": "*große Zahlen*\nS.26-27, #36a,b,c, 39a,b,c, \nS.30, #45g,h, \nS.32, #47, 49, 50 ",
+       "material": "Matherad 4",
+       "anhaenge": []
+      },
+      {
+       "id": "zft0sju",
+       "art": "Klasse 5",
+       "niveau": "★★",
+       "text": "*Rechenregeln*\nS. 42-43, Merksätze\n                 #1,2,3\n                 #5,6,7,9",
+       "material": "Matherad 5",
+       "anhaenge": []
+      },
+      {
+       "id": "03d9ssp",
+       "art": "Klasse 6",
+       "niveau": "★★★",
+       "text": "*gleichnamige Brüche addieren und subtrahieren*\nS. 30-31, Merksatz\n                #5,7,9\n                #10,13\nAbgabe am *__Freitag!__*. (Gib deinen vollständigen Mathehefter mit __*allen*__ Wochenplänen zur Korrektur ab.)",
+       "material": "Matherad 6",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "h91075r",
+     "name": "Üben & Trainieren",
+     "farbe": "#0f8a55",
+     "aufgaben": [
+      {
+       "id": "gadq4j4",
+       "art": "Wahl",
+       "niveau": "",
+       "text": "Sprich große (6-10 stellige) Zahlen sicher aus.\nZ.B.: 345 678 910 = dreihundertfünfundvierzig Million sechshundertachtundsiebzigtausendneunhundertzehn\nHelfen dir die Leerzeichen beim lesen?",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "lyjuaut",
+     "name": "Wahl- & Knobelaufgaben",
+     "farbe": "#b8791a",
+     "aufgaben": [
+      {
+       "id": "39w4sb6",
+       "art": "alle",
+       "niveau": "",
+       "text": "Wie viele Treppenstufen läufst du an einem Schultag (*in der Woche) hoch?",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "r4vsc8n",
    "titel": "3. Woche",
    "von": "2026-09-14",
