@@ -78,7 +78,7 @@
        "id": "o6kygj0",
        "art": "Wahl",
        "niveau": "",
-       "text": "Ein Zeichen (Buchstabe, Zahl, Sonderzeichen) wird bei einem Computer mit 8 Bit (eine 8-stellige Folge von Nullen und Einsen) gespeichert. \nDer Großbuchstabe „A“ lautet im ASCII-Binärcode (8-Bit) 01000001.\n1024 Bytes = 1 Kilobyte (1 KB)\n1024 KB = 1 Megabyte (1 MB)\n1024 MB = 1 Gigabyte (1 GB)\n1024 GB = 1 Terabyte (1 TB)\na) Wie viele Zeichen lassen sich theoretisch auf einem 256GB USB-Stick speichern? \nb) Wenn auf eine A4-Seite rund 5000 Zeichen passen (schmaler Rand, Schriftgröße 11), wie viele Seiten wären auf dem Stick?\nc) Wenn 10 Seiten 1mm dick sind, wie hoch wäre der Papierstapel, wenn man alle Seiten ausdrucken würde?\nd) Wie weit wäre die Strecke, wenn man die Seiten längs aneinander legt?",
+       "text": "Ein Zeichen (Buchstabe, Zahl, Sonderzeichen) wird bei einem Computer mit einem Byte gespeichert. _Jedes Byte enthält 8 Bit (eine 8-stellige Folge von Nullen und Einsen)_ . \nDer Großbuchstabe „A“ lautet im ASCII-Binärcode (8-Bit) 01000001.\n1024 Bytes = 1 Kilobyte (1 KB)\n1024 KB = 1 Megabyte (1 MB)\n1024 MB = 1 Gigabyte (1 GB)\n1024 GB = 1 Terabyte (1 TB)\na) Wie viele Zeichen lassen sich theoretisch auf einem 256GB USB-Stick speichern? \nb) Wenn auf eine A4-Seite rund 5000 Zeichen passen (schmaler Rand, Schriftgröße 11), wie viele Seiten wären auf dem Stick?\nc) Wenn 10 Seiten 1mm dick sind, wie hoch wäre der Papierstapel, wenn man alle Seiten ausdrucken würde?\nd) Wie weit wäre die Strecke, wenn man die Seiten längs aneinander legt?",
        "material": "",
        "anhaenge": []
       }
