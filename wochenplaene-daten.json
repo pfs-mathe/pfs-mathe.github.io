@@ -12,6 +12,81 @@
  ],
  "wochen": [
   {
+   "id": "o3i2z8s",
+   "titel": "5. Woche",
+   "von": "2026-09-28",
+   "bis": "2026-10-02",
+   "fuer": [
+    "tinnmwx",
+    "v6ca4kh"
+   ],
+   "thema": "Große Zahlen runden, schriftlich addieren und subtrahieren, ",
+   "hinweis": "",
+   "bloecke": [
+    {
+     "id": "qzhnrvl",
+     "name": "Pflichtaufgaben",
+     "farbe": "#1f4e9c",
+     "aufgaben": [
+      {
+       "id": "p334sf6",
+       "art": "Klasse 4",
+       "niveau": "★",
+       "text": "*Zahlen runden*: S.34, #58\n*schriftlich addieren*: S. 49, Merksatz (oben), #50, 51\n*schriftlich subtrahieren*: S. 67, Merksatz (Auffüllverfahren), #43, 44",
+       "material": "Matherad 4",
+       "anhaenge": []
+      },
+      {
+       "id": "sv6ndnc",
+       "art": "Klasse 5",
+       "niveau": "★★",
+       "text": "*Schriftlich multiplizieren und dividieren*: S.44, Merksätze, #10, 11, 12\n*Vielfache*: S.48, Merksätze, #29, 31\n*Teiler*: S. 49, Merksätze, #32, 34",
+       "material": "Matherad 5",
+       "anhaenge": []
+      },
+      {
+       "id": "vjd9pbk",
+       "art": "Klasse 6",
+       "niveau": "★★★",
+       "text": "*Brüche erweitern*: S.20, Merksatz, #4, 5\n*Brüche kürzen*: S.21, Merksatz, #9, 10\nS.22-23, #12, 17, 18 ",
+       "material": "Matherad 6",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "ymes8hf",
+     "name": "Üben & Trainieren",
+     "farbe": "#0f8a55",
+     "aufgaben": [
+      {
+       "id": "xsfw9e5",
+       "art": "alle",
+       "niveau": "",
+       "text": "- 1•1 - Aufgaben, 1:1 - Aufgaben\n- schriftliche Multiplikation und Division\n- Quadratzahlen (2•2, 3•3, ... bis 20•20)",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "jpi4s6s",
+     "name": "Wahl- & Knobelaufgaben",
+     "farbe": "#b8791a",
+     "aufgaben": [
+      {
+       "id": "o6kygj0",
+       "art": "Wahl",
+       "niveau": "",
+       "text": "Ein Zeichen (Buchstabe, Zahl, Sonderzeichen) wird bei einem Computer mit 8 Bit (eine 8-stellige Folge von Nullen und Einsen) gespeichert. \nDer Großbuchstabe „A“ lautet im ASCII-Binärcode (8-Bit) 01000001.\n1024 Bytes = 1 Kilobyte (1 KB)\n1024 KB = 1 Megabyte (1 MB)\n1024 MB = 1 Gigabyte (1 GB)\n1024 GB = 1 Terabyte (1 TB)\nWieviele Zeichen lassen sich auf einem 256GB USB-Stick speichern? \nWenn auf eine A4-Seite rund 2000 Zeichen passen, wieviele Seiten wären auf dem Stick?\nWenn 10 Seiten 1mm dick sind, wie hoch wäre der Papierstapel, wenn man alle Seiten ausdrucken würde?",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "k7yrkuc",
    "titel": "4. Woche",
    "von": "2026-09-21",
