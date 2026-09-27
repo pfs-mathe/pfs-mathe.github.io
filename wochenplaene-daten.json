@@ -45,11 +45,27 @@
        "anhaenge": []
       },
       {
+       "id": "dx0tfed",
+       "art": "Klasse 5",
+       "niveau": "★★",
+       "text": "_Alternative_:\n*Schriftlich multiplizieren*: S. 132, Merksätze, #1-4 (auf S.133 oder 134 oder 135)\n*Schriftlich dividieren*: S. 138, Merksätze, #1-4 (auf S.139 oder 140 oder 141)",
+       "material": "Dreifach Mathe 5",
+       "anhaenge": []
+      },
+      {
        "id": "vjd9pbk",
        "art": "Klasse 6",
        "niveau": "★★★",
        "text": "*Brüche erweitern*: S.20, Merksatz, #4, 5\n*Brüche kürzen*: S.21, Merksatz, #9, 10\nS.22-23, #12, 17, 18 ",
        "material": "Matherad 6",
+       "anhaenge": []
+      },
+      {
+       "id": "6jinmhn",
+       "art": "Klasse 6",
+       "niveau": "★★★",
+       "text": "_Alternative_:\nBrüche erweitern und kürzen: S. 32, Merksätze, #1-4,7 (auf S.33 oder 34 oder 35)",
+       "material": "",
        "anhaenge": []
       }
      ]
