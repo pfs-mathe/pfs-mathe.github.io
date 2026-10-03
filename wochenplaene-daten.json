@@ -12,6 +12,81 @@
  ],
  "wochen": [
   {
+   "id": "34r6csc",
+   "titel": "6. Woche",
+   "von": "2026-10-05",
+   "bis": "2026-10-09",
+   "fuer": [
+    "tinnmwx",
+    "v6ca4kh"
+   ],
+   "thema": "Schriftliche Rechenverfahren, Vielfache, Teiler, Brüche vergleichen",
+   "hinweis": "",
+   "bloecke": [
+    {
+     "id": "zabuk4g",
+     "name": "Pflichtaufgaben",
+     "farbe": "#1f4e9c",
+     "aufgaben": [
+      {
+       "id": "wumb36y",
+       "art": "Klasse 4",
+       "niveau": "★",
+       "text": "*Schriftliche Multiplikation*\nS.82-83, Merksatz, #30, 31, 32, 34\nS. 85, Merksatz, #40, 41",
+       "material": "Matherad 4",
+       "anhaenge": []
+      },
+      {
+       "id": "efqvo29",
+       "art": "Klasse 5",
+       "niveau": "★★",
+       "text": "*Teiler und Vielfache*\nS. 48-49, Merksätze, #29, 31, 32, 34\nS.50, #36, *39",
+       "material": "Matherad 5",
+       "anhaenge": []
+      },
+      {
+       "id": "pfqgnxo",
+       "art": "Klasse 6",
+       "niveau": "★★★",
+       "text": "*Brüche kürzen und erweitern*\nS.22, Merksatz, #12, 14\n*Brüche vergleichen*\nS.23, #16, 17\nS.25, Merksätze, #20, 21, 25, 26 ",
+       "material": "Matherad 6",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "7hmr0ud",
+     "name": "Üben & Trainieren",
+     "farbe": "#0f8a55",
+     "aufgaben": [
+      {
+       "id": "i85odu4",
+       "art": "alle",
+       "niveau": "",
+       "text": "Klassenarbeit in der 2. Woche nach den Ferien!\nWiederhole und übe die Themen der letzten Wochenpläne...",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "vmk4kgy",
+     "name": "Wahl- & Knobelaufgaben",
+     "farbe": "#b8791a",
+     "aufgaben": [
+      {
+       "id": "78htor9",
+       "art": "Pflicht",
+       "niveau": "",
+       "text": "Forscher schätzen, dass es an allen Stränden und in allen Wüsten der Erde zusammen etwa 7,5 Trillionen Sandkörner gibt.\na) Schreibe diese Zahl einmal auf. Wieviele Stellen hat diese Zahl?\nb) 500000 Sandkörner wiegen rund 1 kg. Wie schwer wäre dann der Sand unserer Erde?",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "o3i2z8s",
    "titel": "5. Woche",
    "von": "2026-09-28",
