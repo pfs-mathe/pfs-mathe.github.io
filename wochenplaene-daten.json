@@ -12,6 +12,81 @@
  ],
  "wochen": [
   {
+   "id": "tszlu5q",
+   "titel": "7. Woche",
+   "von": "2026-11-02",
+   "bis": "2026-11-06",
+   "fuer": [
+    "tinnmwx",
+    "v6ca4kh"
+   ],
+   "thema": "Vorbereitung auf die Klassenarbeit",
+   "hinweis": "Du kannst auch in den anderen Büchern (Sekundo, Dreifach Mathe oder Mathe live) nach passenden Aufgaben suchen.\nSchaue dazu im Inhaltsverzeichnis nach dem Thema.",
+   "bloecke": [
+    {
+     "id": "dkbeozf",
+     "name": "Pflichtaufgaben",
+     "farbe": "#1f4e9c",
+     "aufgaben": [
+      {
+       "id": "0ffg36z",
+       "art": "Klasse 4",
+       "niveau": "",
+       "text": "*große Zahlen vergleichen: *\nMatherad 4: S. 32\n*große Zahlen runden:* \nMatherad 4: S. 34\n*große Zahlen auf dem Zahlenstrahl:*\nMatherad 4: S. 27\n*schriftlich addieren und subtrahieren:*\nMatherad 4: S. 49, 67\n*schriftlich multiplizieren:*\nMatherad 4: S. 83, 85\n*Rechenregeln:*\nMatherad 4: S. 78 #18",
+       "material": "Matherad 4",
+       "anhaenge": []
+      },
+      {
+       "id": "nzsfn7y",
+       "art": "Klasse 5",
+       "niveau": "",
+       "text": "*schriftliche Multiplikation:*\nMatherad 5: S. 12,13\n*schriftliche Division:*\nMatherad 5: S. 14, 15\n*Rechenregeln:*\nMatherad 5: S. 43\n*Vielfache, kgV:*\nMatherad 5: S. 48\n*Teiler, ggT:*\nMatherad 5: S. 49\n*Primzahlen:*\nMatherad 5: S. 57",
+       "material": "Matherad 5",
+       "anhaenge": []
+      },
+      {
+       "id": "lbjz43m",
+       "art": "Klasse 6",
+       "niveau": "",
+       "text": "*Brüche erkennen und zeichnen:*\nMatherad 6: S. 13-14\n*Brüche ordnen und vergleichen:* \nMatherad 6: S. 23-25\n*unechte Brüche und gemischte Zahlen:*\nMatherad 6: S. 26-27\n*Brüche auf dem Zahlenstrahl:*\nMatherad 6: S. 25\n*Brüche kürzen und erweitern:*\nMatherad 6: S.20-22\n*gleichnamige Brüche addieren und subtrahieren:*\nMatherad 6: S. 30-31\n*Primzahlen:*\nMatherad 6: S. 12",
+       "material": "Matherad 6",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "gjs0lr5",
+     "name": "Üben & Trainieren",
+     "farbe": "#0f8a55",
+     "aufgaben": [
+      {
+       "id": "w5hjqs5",
+       "art": "alle",
+       "niveau": "",
+       "text": "Schreibe dir Fragen zu unklaren Themen auf, die wir in der Woche zur Vorbereitung besprechen.\nÜberlege dir zu jedem Thema eigene ähnliche Aufgaben wie im Buch, und löse sie auf einem Lösungsblatt.\n - Das Aufgabenblatt kannst du mit einem/r Mitschüler/in tauschen und eure Lösungen vergleichen.\nGehe die Merksätze zu jedem Thema durch und schreibe ein eigenes Beispiel auf.",
+       "material": "Buch, Blatt",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "mlo3sxm",
+     "name": "Wahl- & Knobelaufgaben",
+     "farbe": "#b8791a",
+     "aufgaben": [
+      {
+       "id": "0c3kl7l",
+       "art": "Wahl",
+       "niveau": "",
+       "text": "Nach den aktuellen Daten des Statistischen Bundesamtes gab es für das Jahr 2025 rund 2,52 Millionen Verkehrsunfälle in Deutschland.\nWie viele Unfälle sind das in einer Minute?\nDie häufigsten Unfälle (etwa alle 11 Sekunden) ereignen sich allerdings im Haushalt (in den eigenen vier Wänden durch Stürze, Verbrennungen oder Schnittverletzungen). Wieviele Unfälle sind das in einem Jahr?",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "34r6csc",
    "titel": "6. Woche",
    "von": "2026-10-05",
