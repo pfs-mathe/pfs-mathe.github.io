@@ -12,6 +12,89 @@
  ],
  "wochen": [
   {
+   "id": "n6eo419",
+   "titel": "8. Woche",
+   "von": "2026-11-16",
+   "bis": "2026-11-20",
+   "fuer": [
+    "tinnmwx",
+    "v6ca4kh"
+   ],
+   "thema": "schriftliche Division",
+   "hinweis": "",
+   "bloecke": [
+    {
+     "id": "4ape41k",
+     "name": "Pflichtaufgaben",
+     "farbe": "#1f4e9c",
+     "aufgaben": [
+      {
+       "id": "29ic34c",
+       "art": "Klasse 4",
+       "niveau": "★",
+       "text": "schriftliche Division: S.95-96, Merksatz (Anleitung), \n#71,72,73,74 ",
+       "material": "Matherad 4",
+       "anhaenge": []
+      },
+      {
+       "id": "dbif57f",
+       "art": "Klasse 5",
+       "niveau": "★★",
+       "text": "Teilbarkeitsregeln: S. 51-56, #41,44,48,51,56,60,63,\n#68,69",
+       "material": "Matherad 5",
+       "anhaenge": []
+      },
+      {
+       "id": "cnb864f",
+       "art": "Klasse 6",
+       "niveau": "★★★",
+       "text": "Brüche addieren und subtrahieren:S.40, Merksätze\nS.41, #7,9,10 \nS.42, #8,9\nS.43, #4,10",
+       "material": "Dreifach Mathe 6",
+       "anhaenge": []
+      },
+      {
+       "id": "zdhprdp",
+       "art": "Klasse 6",
+       "niveau": "★★★",
+       "text": "Alternativ: S. 33, Merksatz\nS. 33-35, #21,22,23,27,30",
+       "material": "Matherad 6",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "4zemldc",
+     "name": "Üben & Trainieren",
+     "farbe": "#0f8a55",
+     "aufgaben": [
+      {
+       "id": "m2bk8hu",
+       "art": "alle",
+       "niveau": "",
+       "text": "Quadratzahlen 1•1, 2•2, 3•3, ..., 20•20 lernen ",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "wlidlxp",
+     "name": "Wahl- & Knobelaufgaben",
+     "farbe": "#b8791a",
+     "aufgaben": [
+      {
+       "id": "dgwzux0",
+       "art": "Wahl",
+       "niveau": "",
+       "text": "Eine Ameise läuft (stets bei konstanter Geschwindigkeit) geradeaus, biegt nach 10 Sekunden im rechten Winkel (90°) nach rechts ab und läuft weiter geradeaus. Nach weiteren 10 Sekunden biegt sie erneut 90° nach rechts ab und läuft geradeaus weiter. Nach 10 Sekunden wundert sie sich, denn sie steht wieder am Ausgangspunkt!\nWie ist das möglich?",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "tszlu5q",
    "titel": "7. Woche",
    "von": "2026-11-02",
