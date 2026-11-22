@@ -12,6 +12,81 @@
  ],
  "wochen": [
   {
+   "id": "af7yo7i",
+   "titel": "9. Woche",
+   "von": "2026-11-23",
+   "bis": "2026-11-28",
+   "fuer": [
+    "tinnmwx",
+    "v6ca4kh"
+   ],
+   "thema": "Division\nTeilbarkeit und\nBruchrechnung",
+   "hinweis": "",
+   "bloecke": [
+    {
+     "id": "f619kzz",
+     "name": "Pflichtaufgaben",
+     "farbe": "#1f4e9c",
+     "aufgaben": [
+      {
+       "id": "szp20rx",
+       "art": "Klasse 4",
+       "niveau": "★",
+       "text": "Beende den letzen Wochenplan.\nS.96, #75,76\nS.98, #79,80\nS.100, Merksatz in das Regelheft eintragen, #87,88",
+       "material": "Matherad 4",
+       "anhaenge": []
+      },
+      {
+       "id": "gh72oqx",
+       "art": "Klasse 5",
+       "niveau": "★★",
+       "text": "Beende den letzten Wochenplan\nSchreibe die Teilbarkeitsregeln der 2,3,4,5,6,9,10,100 mit deinen Worten in das Regelheft.\nS.56, #71, 78, 79, *80\n",
+       "material": "Matherad 5",
+       "anhaenge": []
+      },
+      {
+       "id": "lmlxi4d",
+       "art": "Klasse 6",
+       "niveau": "★★★",
+       "text": "Beende den letzten Wochenplan\nS. 38, Merksatz in das Regelheft eintragen,\nS. 38, #5,7,9",
+       "material": "Matherrad 6",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "4rvvx9z",
+     "name": "Üben & Trainieren",
+     "farbe": "#0f8a55",
+     "aufgaben": [
+      {
+       "id": "5us6xl2",
+       "art": "alle",
+       "niveau": "",
+       "text": "Schriftliche Division mit 6 als Divisor: 8765E : 6 = , wobei der Einer (E) soll so gewählt werden, dass kein Rest bleibt. (Nutze die Teilbarkeitsregeln!)\nDenke dir ähnliche Aufgaben (ohne Rest) aus.",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "uklt57u",
+     "name": "Wahl- & Knobelaufgaben",
+     "farbe": "#b8791a",
+     "aufgaben": [
+      {
+       "id": "u59x9z9",
+       "art": "Wahl",
+       "niveau": "",
+       "text": "Falte ich ein Blatt Papier 3 mal (8 Lagen), ist es etwa 1mm hoch. Angenommen, ich hätte ein beliebig großes Blatt und ich könnte es beliebig oft falten. Wie oft müsste ich es falten, um\na) meine Körpergröße zu übertreffen?\nb) die Höhe der Schule (ca. 30m) zu übertreffen?\nc) die Entfernung zum Mond (rund 385000km) zu übertreffen?",
+       "material": "Du darfst einen Taschenrechner benutzen...",
+       "anhaenge": []
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "n6eo419",
    "titel": "8. Woche",
    "von": "2026-11-16",
