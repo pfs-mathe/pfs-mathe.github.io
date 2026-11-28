@@ -12,6 +12,72 @@
  ],
  "wochen": [
   {
+   "id": "je4eq7s",
+   "titel": "10. Woche",
+   "von": "2026-11-30",
+   "bis": "2026-12-04",
+   "fuer": [
+    "tinnmwx",
+    "v6ca4kh"
+   ],
+   "thema": "schriftliche Division (Level up), Teiler und Teilbarkeit (Kontrolle), Dezimalzahlen und Brüche",
+   "hinweis": "",
+   "bloecke": [
+    {
+     "id": "qhkzytx",
+     "name": "Pflichtaufgaben",
+     "farbe": "#1f4e9c",
+     "aufgaben": [
+      {
+       "id": "pm5vime",
+       "art": "Klasse 4",
+       "niveau": "★★",
+       "text": "*schriftliche Division:*\nS.84, #2a-f, 5a-f, 7a Rechnung+Antwortsatz\nS.85, #3a-c, 4a-c, 5c Rechnung+Antwortsatz ",
+       "material": "Sekundo 5",
+       "anhaenge": []
+      },
+      {
+       "id": "x22ibif",
+       "art": "Klasse 5",
+       "niveau": "★★",
+       "text": "*Zwischentest: Abgabe am Freitag!*\nS.18-19, #1-7 Level1 oder L2 oder L3, entscheide bei jeder Aufgabe neu.\nWenn du nicht weiterkommst, lies auf den angegebenen Seiten nach.",
+       "material": "Dreifach Mathe 6",
+       "anhaenge": []
+      },
+      {
+       "id": "aiva1lg",
+       "art": "Klasse 6",
+       "niveau": "★★★",
+       "text": "*Dezimalzahlen:*\nS.53, Merksatz, #5\nS.54, #6,8,10\nS.55, #11,14,15",
+       "material": "Matherad 6",
+       "anhaenge": []
+      }
+     ]
+    },
+    {
+     "id": "ejnd7o6",
+     "name": "Üben & Trainieren",
+     "farbe": "#0f8a55",
+     "aufgaben": []
+    },
+    {
+     "id": "cg8shlh",
+     "name": "Wahl- & Knobelaufgaben",
+     "farbe": "#b8791a",
+     "aufgaben": [
+      {
+       "id": "71cmtj0",
+       "art": "alle",
+       "niveau": "★",
+       "text": "Auf einer Geburtstagsfeier sind insgesamt 10 Kinder. Zum Abschied schüttelt jedes Kind jedem anderen Kind genau einmal die Hand.\na) Wie oft werden Hände geschüttelt?\nb) Was wäre, wenn die ganze Klasse eingeladen wäre?\nc) Was hat folgende Reihe mit der Aufgabe zu tun? Finde die Rechenvorschrift und setze die Reihe um 3 Stellen fort: 0, 1, 3, 6, 10, 15, 21, 28, 36, ...\nd) Findest du eine Formel für eine beliebige Anzahl von Personen?",
+       "material": "",
+       "anhaenge": []
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "af7yo7i",
    "titel": "9. Woche",
    "von": "2026-11-23",
